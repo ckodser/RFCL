@@ -1,0 +1,3 @@
+in the run time we could see that each node have a redundant connection which after each reconnecting phase that node change that specific connection. 
+
+in the next update i will test putting some extra loss on changing new connections to help new connections to fit and find its right weight.
